@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*iPhone size: 568x320pts / 1136x640px*/
+
+body 
+	{
+	background-color: #FFFF00;
+	margin: 0 auto;
+	}
+
+div#logon
+	{
+	position:relative;
+	width: 640px;
+	height:1136px;
+	margin: 0 auto;
+	text-align:center;	
+	}
+	
+div#signon
+	{
+	width:400px;
+	height:320px;
+	position:relative;
+	margin:0 auto;
+	font-size:28px;
+	font-family:"Arial Black", Gadget, sans-serif;
+	background-color:#FFFFFF;
+	text-align:center;
+	border:solid 8px #60C;
+	/*padding:30px;*/
+	}
+	
+.bigbutton
+	{
+	font-size:large;
+	width:100px;
+	height:35px;
+	}
+	
+img 
+	{
+	position:relative;
+	text-alighn:center;
+	padding:20px;
+	}
